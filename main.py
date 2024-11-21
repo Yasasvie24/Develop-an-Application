@@ -1,2 +1,3 @@
-from . import  subtraction
+from  subtraction import subtract
 
+print(subtract(3,2))
